@@ -4,7 +4,7 @@ Hi 👋 My name is Lucian Blignaut
 Frontend Developer
 ------------------
 
-I'm a self-taught developer with 5 years experience in frontend and backend technologies. I focus mainly on frontend work with Angular and Firebase.
+I'm a self-taught developer with 3 years experience in frontend and backend technologies. I focus mainly on frontend work with Angular and Firebase.
 
 * 🌍  I'm based in Cape Town, South Africa
 * ✉️  You can contact me at [lucianblignaut@gmail.com](mailto:lucianblignaut@gmail.com)
