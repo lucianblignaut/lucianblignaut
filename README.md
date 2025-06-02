@@ -8,7 +8,7 @@ I'm a self-taught developer with 3 years experience in frontend and backend tech
 
 * 🌍  I'm based in Cape Town, South Africa
 * ✉️  You can contact me at [lucianblignaut@gmail.com](mailto:lucianblignaut@gmail.com)
-* 🧠  I'm learning Angular and TypeScript
+* 🧠  I'm building with Angular and TypeScript
 * 🤝  I'm open to collaborating on on any projects that can enhance my skills as a developer!
 
 ### Skills
